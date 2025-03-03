@@ -2,7 +2,8 @@
  <img alt="logo" height="200px" src="img\logo.png">
 </div>
 
-# Schulte Table Test 舒尔特表格
+<h1 align="center">Schulte Table Test</h1>
+<h1 align="center">舒尔特表格</h1>
 
 ## 简介
 舒尔特表（Schulte Grid）是通过动态的练习锻炼视神经末梢的方法。心理学上用此表来研究和发展心理感知的速度，其中包括视觉定向搜索运动的速度。
