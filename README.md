@@ -16,3 +16,14 @@
  <img alt="top"src="img\top.png">
  <img alt="top"src="img\game.png">
 </div>
+
+## 自动化点击
+新增schulte_auto.py，自动识别
+### 安装依赖
+```bash
+pip install -r requirements.txt
+```
+### 运行训练程序：
+```bash
+python mnist_best.py
+```
